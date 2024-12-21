@@ -145,13 +145,13 @@ $ f(x) = cal(F)^(-1)[F(u)] = 1/(2 pi) integral^oo_(-oo) f(x)^(i u x) dif x $<eq:
 
 ## 参考文献
 
-1. Typst Documentation https://typst.app/docs
+1. Typst Documentation (https://typst.app/docs)[https://typst.app/docs]
 
-2. 話題の組版エンジン Typst を触ってみた https://zenn.dev/monaqa/articles/2023-04-19-typst-introduction
+2. 話題の組版エンジン Typst を触ってみた (https://zenn.dev/monaqa/articles/2023-04-19-typst-introduction)[https://zenn.dev/monaqa/articles/2023-04-19-typst-introduction]
 
-3. やりたいことから始めるTypst https://qiita.com/tomoyatajika/items/649884befe95c5f1dcea
+3. やりたいことから始めるTypst (https://qiita.com/tomoyatajika/items/649884befe95c5f1dcea)[https://qiita.com/tomoyatajika/items/649884befe95c5f1dcea]
 
-4. Typst における高校数学テンプレート https://www.metaphysica.info/2024/typst-template/
+4. Typst における高校数学テンプレート (https://www.metaphysica.info/2024/typst-template/)[https://www.metaphysica.info/2024/typst-template/]
 
 閲覧 2024-12-10 から 2024-12-18
 
