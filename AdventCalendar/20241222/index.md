@@ -1,3 +1,8 @@
+---
+layout: default
+title: 組版ソフト Typst の紹介
+---
+
 <script>
   MathJax = {
     tex: {
