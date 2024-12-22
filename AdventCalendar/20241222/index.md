@@ -158,6 +158,8 @@ $ f(x) = cal(F)^(-1)[F(u)] = 1/(2 pi) integral^oo_(-oo) f(x)^(i u x) dif x $<eq:
 
 4. Typst における高校数学テンプレート [https://www.metaphysica.info/2024/typst-template/](https://www.metaphysica.info/2024/typst-template/)
 
+5. 新 応用数学 改訂版 高遠節夫 監修, 碓氷久, 鈴木正樹, 西浦孝治, 西垣誠一, 拜田稔, 前田善文, 山下哲 著. 大日本図書, 2024年. ISBN: 978-4-477-03502-4.
+
 閲覧 2024-12-10 から 2024-12-18
 
 ## 補足とか
