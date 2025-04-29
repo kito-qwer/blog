@@ -1,6 +1,25 @@
+---
+layout: default
+title: 入茶した話
+---
+
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$']],
+      displayMath: [['$$', '$$'], ["\\[", "\\]"]]
+    }
+  };
+</script>
+<script type="text/javascript" async
+ src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
 # 入茶した話
 
-AtCoderを初めて7ヵ月、2025年4月27日のABC403（3完）でようやく入茶しましたので入茶記事とやらを書いてみます。
+AtCoderをはじめて7ヵ月、2025年4月27日のABC403（3完）でようやく入茶しましたので入茶記事とやらを書いてみます。
+
+![AtCoderのユーザQvitoのユーザ画面の内レーティング推移のグラフの画像。2024-10-12から2025-04-27までのグラフと、その上にレート419であることを示す文字。](rating.png)
 
 ## 自己紹介
 
