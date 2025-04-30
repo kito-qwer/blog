@@ -2,6 +2,9 @@
 
 Kito(Qvito)のブログです。
 
+- [X](https://x.com/kito_qwer)
+- [AtCoder](https://atcoder.jp/users/Qvito)
+
 ## 記事
 
 ### アドベントカレンダー
