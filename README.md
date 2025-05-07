@@ -16,3 +16,12 @@ Kito(Qvito)のブログです。
 - [入茶記事](https://kito-qwer.github.io/blog/atcoder/article/changecolor/brown/)
 
 - [作ったもの](https://kito-qwer.github.io/blog/atcoder/other/)
+
+    - AtCoderBestMoment.user.js
+        
+
+### アプリケーション
+
+- [sclac](https://github.com/kito-qwer/scalc)
+
+    シンプルなコマンドライン計算機。変数と組み込み関数が使えます。
