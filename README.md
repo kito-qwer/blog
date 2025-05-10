@@ -13,6 +13,8 @@ Kito(Qvito)のブログです。
 
 ### AtCoder
 
+- [落灰記事](https://kito-qwer.github.io/blog/atcoder/article/changecolor/grey/)
+
 - [入茶記事](https://kito-qwer.github.io/blog/atcoder/article/changecolor/brown/)
 
 - [作ったもの](https://kito-qwer.github.io/blog/atcoder/other/)
